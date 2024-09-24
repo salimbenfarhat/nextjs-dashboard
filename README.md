@@ -15,7 +15,7 @@ Now, try it out. You should be able to log in and out of your application using 
 
 You can access the live demo of the application at the following link:
 
-[Demo Link](https://nextjs-dashboard-kntdtdvnn-salim-benfarhats-projects.vercel.app/)
+[Demo Link](https://nextjs-dashboard-sablab.vercel.app/)
 
 ### Video Demo
 
