@@ -9,6 +9,8 @@ export const metadata: Metadata = {
   },
   description: 'The official Next.js Learn Dashboard built with App Router.',
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
+  authors: [{name: 'Salim Benfarhat', url:'https://salim.link/linkedin'}],
+  keywords: ['Next.js 15', 'Acme', 'Dashboard', 'nextjs.org/learn', 'Server Actions']
 };
 
 export default function RootLayout({
